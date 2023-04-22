@@ -134,6 +134,17 @@ h1 {
 .happy-eid-text li:nth-child(9) {
   animation-delay: 0.9s;
 }
+.ketupat {
+  width: 50px;
+  height: 50px;
+  margin-top: 50px;
+  background: #4EA74E;
+  box-shadow: 50px 0px 0px #346F34, 50px 50px 0px #4EA74E, 0px 50px 0px #346F34, 31px 31px 15px 26px rgba(0, 0, 0, 0.27);
+  display: inline-block;
+  text-align: center;
+  -webkit-transform: rotate(45deg);
+  margin-bottom: 95px;
+}
 /* .happy-eid-container{
     background-color: #eee;
 } */
